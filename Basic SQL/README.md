@@ -1,0 +1,2 @@
+-- Showcase of basic SQL querries 
+-- Here I practiced novice exercises 
