@@ -6,7 +6,6 @@ The goal of this repo is to document my learning path as I build towards profess
 ## 📂 Repository Structure
 - `practice/` → Daily or topic-based `.sql` files with examples, exercises, and notes.
 - `projects/` → Larger practice projects or case studies using sample data.
-- `resources/` → Any useful references, tips, or study materials I collect along the way.
 
 ## 🎯 Learning Objectives
 - Master SQL fundamentals: `SELECT`, `JOIN`, `GROUP BY`, `WHERE`, `ORDER BY`
