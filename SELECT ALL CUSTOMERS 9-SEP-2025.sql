@@ -1,0 +1,3 @@
+-- SELECT ALL CUSTOMERS
+SELECT *
+FROM customers
