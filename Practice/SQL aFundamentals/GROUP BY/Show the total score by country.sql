@@ -1,0 +1,18 @@
+-- GROUP BY
+-- SHOW THE SCORE BY COUNTRY
+-- SINCE TOTAL VALUE DOES NOT COME FROM THE TABLE SQL DOES NOT KNOW HOW TO NAME IT
+-- WE WILL USE "AS" AND GIVE THE NEW COLUMN AN ALIAS
+
+SELECT 
+	country,
+	sum(score)
+FROM customers
+GROUP BY country
+
+-- ADD ALIAS
+
+SELECT 
+	country,
+	sum(score) AS score
+FROM customers
+GROUP BY country
